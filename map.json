@@ -155,7 +155,7 @@
                          "value":"admin"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":220,
                  "x":1472,
@@ -177,7 +177,7 @@
                          "value":"admin"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":224,
                  "x":832,
@@ -199,7 +199,7 @@
                          "value":"admin"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":352,
                  "x":1088,
@@ -221,7 +221,7 @@
                          "value":"admin"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":672,
                  "x":1952,
@@ -238,7 +238,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":512,
                  "x":896,
@@ -255,7 +255,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":224,
                  "x":1152,
@@ -277,7 +277,7 @@
                          "value":"admin"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":192,
                  "x":2240,
@@ -294,7 +294,7 @@
                          "value":"https:\/\/www.uni-weimar.de\/de\/universitaet\/studium\/studienservices\/"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":160,
                  "x":1568,
